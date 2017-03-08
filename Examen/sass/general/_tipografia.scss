@@ -1,0 +1,38 @@
+* {
+	color:#fff;
+}
+@font-face {
+    font-family: 'beyond';
+    src: url('../Font/beyond_the_mountains-webfont.woff2') format('woff2'),
+         url('../Fontbeyond_the_mountains-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1 {
+	font-family: 'beyond', sans-serif;
+	font-size: 90px;
+	position: relative;
+    bottom: 418px;
+    text-align: center;
+}
+h2 {
+	color: #000;
+	text-align: center;
+    font-size: 30px;
+    position: relative;
+    bottom: 260px;
+    text-transform: uppercase;
+}
+h3 {
+	font-size: 40px;
+}
+.info {
+	width: 400px;
+    float: right;
+    position: relative;
+    right: 252px;
+    bottom: 476px;
+    font-family: 'Montserrat', sans-serif;
+}

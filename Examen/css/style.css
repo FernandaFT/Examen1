@@ -1,0 +1,91 @@
+body {
+  margin: 0 auto; }
+
+main {
+  width: 1440px; }
+
+header {
+  background-color: #000; }
+
+a {
+  text-decoration: none; }
+
+ul {
+  list-style: none;
+  display: inline-flex;
+  position: relative;
+  left: 839px; }
+
+li {
+  padding: 10px;
+  text-transform: uppercase; }
+
+footer {
+  background-color: #000;
+  height: 370px; }
+
+.linkFooter {
+  position: relative;
+  left: 368px; }
+
+.linkFooter > a > li {
+  padding: 17px; }
+
+.pFooter {
+  float: right;
+  text-align: center;
+  position: relative;
+  top: 191px;
+  right: 154px; }
+
+* {
+  color: #fff; }
+
+@font-face {
+  font-family: 'beyond';
+  src: url("../Font/beyond_the_mountains-webfont.woff2") format("woff2"), url("../Fontbeyond_the_mountains-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+h1 {
+  font-family: 'beyond', sans-serif;
+  font-size: 90px;
+  position: relative;
+  bottom: 418px;
+  text-align: center; }
+
+h2 {
+  color: #000;
+  text-align: center;
+  font-size: 30px;
+  position: relative;
+  bottom: 260px;
+  text-transform: uppercase; }
+
+h3 {
+  font-size: 40px; }
+
+.info {
+  width: 400px;
+  float: right;
+  position: relative;
+  right: 252px;
+  bottom: 476px;
+  font-family: 'Montserrat', sans-serif; }
+
+.logoFace {
+  position: relative;
+  left: 858px;
+  top: 7px; }
+
+.listImg {
+  float: right;
+  position: relative;
+  right: 122px;
+  bottom: 247px; }
+
+img.logoFooter {
+  position: relative;
+  left: 96px;
+  top: 95px; }
+
+/*# sourceMappingURL=style.css.map */
